@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project Comp_Bot_Gerald_2025)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\Users\\bucca\\Desktop\\Comp_Bot_Gerald_2025\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "C:\\Users\\bucca\\Desktop\\Comp_Bot_Gerald_2025\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\Users\\bucca\\Desktop\\Comp_Bot_Gerald_2025\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
